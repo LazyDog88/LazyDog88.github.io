@@ -1,0 +1,39 @@
+body {
+    background-color: bisque;
+}
+
+.Intro {
+    font-style: italic;
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    padding: 5px;
+}
+
+.Education {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+.Education p {
+    font-size: 20px;
+}
+
+.skills {
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.Experience h2 { 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+.Experience InfoBlock {
+    text-align: left; 
+}
